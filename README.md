@@ -1,18 +1,18 @@
-## Developing-Product-Project
+# Developing-Product-Project
 
-# Summary
+## Summary
 
 For the Developing Data Products Course Project, I have developed a Shiny Application for use with the mtcars data package in R.
 
-# Application Purpose
+## Application Purpose
 My Shiny application allows the user to choose a car manufacturer from the list, along with an associated feature of the car (please see below for a list of the available features). After doing to, the application will reactively display:
 
 - All records in the dataset associated with the chosen car manufacturer
 - An average value of the chosen car feature across all of the records associated with the chosen car manufacturer.
 
-## Course Requierment
+# Course Requierment
 
-# Shiny Application
+## Shiny Application
 
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 Deploy the application on Rstudio's shiny server
@@ -27,7 +27,7 @@ You must also include enough documentation so that a novice user could use your 
 The documentation should be at the Shiny website itself. Do not post to an external link.
 The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.
 
-# Reproducible Pitch Presentation
+## Reproducible Pitch Presentation
 
 OK, you've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide) to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
 
